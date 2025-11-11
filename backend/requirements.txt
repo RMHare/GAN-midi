@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+mido
+python-multipart
+onnxruntime
+numpy
